@@ -1,7 +1,7 @@
 {
   "services": {
     "5ff7fdbb-b75c-4d2f-96b8-49c97806d3a7": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/activepieces-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/activepieces/main/icon.svg",
       "name": "Activepieces",
       "build": {},
       "deploy": {
@@ -113,7 +113,7 @@
       }
     },
     "3742b776-7776-42fb-b2c5-ce18b76021c2": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/activepieces-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/activepieces/main/icon.svg",
       "name": "Worker",
       "build": {},
       "deploy": {

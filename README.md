@@ -32,7 +32,7 @@ The stack is four services: Activepieces, Worker, Postgres and Redis.
 - [Activepieces self-hosting documentation](https://www.activepieces.com/docs/install/overview)
 - [Environment variables reference](https://www.activepieces.com/docs/install/reference/environment-variables)
 - [Activepieces on GitHub](https://github.com/activepieces/activepieces)
-- [Template source on GitHub](https://github.com/nomideusz/activepieces-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/activepieces)
 
 ### Implementation Details
 
